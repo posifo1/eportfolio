@@ -1,4 +1,4 @@
-# e-Portfolio as an MSc Candidate in Cyber Security at the University of Essex
+# E-Portfolio as an MSc Candidate in Cyber Security at the University of Essex
 
 This e-portfolio contains the outcomes from my learning journey throughout my MSc in Cyber Security at the University of Essex (UK).
 
