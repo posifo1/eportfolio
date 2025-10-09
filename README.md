@@ -29,6 +29,7 @@ Furthermore, I learned how to assess, qualify, and mitigate risks using systemat
 
 **References**
 NIST (2012). Guide for Conducting Risk Assessments. [online] NIST. NIST. Available at: https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf.
+
 Stoneburner, G., Goguen, A. and Feringa, A. (2002). Special Publication 800-30 Risk Management Guide for Information Technology Systems Recommendations of the National Institute of Standards and Technology. [online] Available at: https://www.archives.gov/files/era/recompete/sp800-30.pdf.
 
 ## Activities/Assignments
