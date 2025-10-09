@@ -38,7 +38,7 @@ NIST (2012). Guide for Conducting Risk Assessments. [online] NIST. NIST. Availab
 
 Stoneburner, G., Goguen, A. and Feringa, A. (2002). Special Publication 800-30 Risk Management Guide for Information Technology Systems Recommendations of the National Institute of Standards and Technology. [online] Available at: https://www.archives.gov/files/era/recompete/sp800-30.pdf.
 
-## Activities/Assignments
+### Activities/Assignments
 - Reflection: Discuss the balance between security measures and business agility.  
 - Assignment: Case study analysis of a company’s security posture. 
 
