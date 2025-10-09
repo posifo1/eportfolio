@@ -17,10 +17,10 @@ This e-portfolio contains the outcomes from my learning journey throughout my MS
 ## Module 6: Security and Risk Management
 
 
-## Module 6: Research Methods and Professional Practice
+## Module 7: Research Methods and Professional Practice
 
 
-## MSc Computing Project and Dissertation
+## Module 8: MSc Computing Project and Dissertation
 
 
 Credits:
