@@ -40,7 +40,7 @@ Stoneburner, G., Goguen, A. and Feringa, A. (2002). Special Publication 800-30 R
 
 ### Activities/Assignments
 - Reflection: Discuss the balance between security measures and business agility.  
-- Assignment: Case study analysis of a company’s security posture. 
+- [Assignment: Case study analysis of a company’s security posture. ](https://github.com/posifo1/SRM-Module-Activities/tree/main/Assignments/Unit-%201)
 
 # Unit 2: Users, Assessments and the Risk Management Process
 
