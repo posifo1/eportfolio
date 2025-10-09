@@ -17,9 +17,9 @@ This e-portfolio contains the outcomes from my learning journey throughout my MS
 ## Module 5: Secure Systems Architecture
 
 ## Module 6: Security and Risk Management
-#### Unit 1: An Introduction to Security and Risk Management
+### Unit 1: An Introduction to Security and Risk Management
 
-### Learning Outcomes
+## Learning Outcomes
 In this unit, I developed a clear understanding of how organisations identify, assess, and control risks to protect their assets and ensure resilience.
 
 I examined various definitions of risk and recognised that it is a context-dependent concept. According to ISO 31000 (2018), risk is defined as the “effect of uncertainty on objectives.” In contrast, Blakley et al. (2001) define risk as "the possibility of an event which would reduce the value of the business were it to occur,  while Stoneburner et al (Stoneburner, Goguen and Feringa, 2002) define risk as "the net negative impact of the exercise of a vulnerability, considering both the probability and the impact of occurrence"
