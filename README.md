@@ -5,14 +5,16 @@ This e-portfolio contains the outcomes from my learning journey throughout my MS
 
 ## Module 1: Launching into Computer Science
 
-
-## Module 3: Secure Software Development
-
-
-## Module 4: Network and Information Security Management
+## Module 2: Network Security
 
 
-## Module 5: Software Engineering Project Management
+## Module 3: Human Factors
+
+
+## Module 4: Secure Software Development
+
+
+## Module 5: Secure Systems Architecture
 
 ## Module 6: Security and Risk Management
 # Unit 1: An Introduction to Security and Risk Management
