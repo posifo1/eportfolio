@@ -17,8 +17,7 @@ This e-portfolio contains the outcomes from my learning journey throughout my MS
 ## Module 6: Security and Risk Management
 # Unit 1: An Introduction to Security and Risk Management
 
-## Module Title
-An Introduction to Security and Risk Management
+## An Introduction to Security and Risk Management
 
 ## Learning Outcomes
 In this unit, I developed a clear understanding of how organisations identify, assess, and control risks to protect their assets and ensure resilience.
@@ -43,6 +42,15 @@ Stoneburner, G., Goguen, A. and Feringa, A. (2002). Special Publication 800-30 R
 - Reflection: Discuss the balance between security measures and business agility.  
 - Assignment: Case study analysis of a company’s security posture. 
 
+# Unit 2: Users, Assessments and the Risk Management Process
+
+## An Introduction to Security and Risk Management
+
+## Learning Outcomes
+
+## Activities/Assignments
+- Reflection: Discuss the balance between security measures and business agility.  
+- Assignment: Case study analysis of a company’s security posture. 
 
 ## Module 7: Research Methods and Professional Practice
 
