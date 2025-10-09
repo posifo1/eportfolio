@@ -34,6 +34,7 @@ Finally, I have developed the ability to identify and apply common security and 
 Overall, this learning has enhanced my ability to analyse complex organisational environments, evaluate risks systematically, and apply internationally recognised standards to protect assets and ensure resilience. These competencies are essential for professional practice in cybersecurity, information governance, and enterprise risk management.
 
 **References**
+
 Blakley, B., McDermott, E. and Geer, D. (2001) ‘Information Security is Information Risk Management’, Proceedings of the 2001 Workshop on New Security Paradigms, ACM, Cloudcroft, New Mexico, USA, pp. 97–104.
 ISO. (2018) ISO 31000:2018 Risk Management – Guidelines. Geneva: International Organization for Standardization.
 ISO/IEC. (2018) ISO/IEC 27001:2018 Information Technology – Security Techniques – Information Security Management Systems – Requirements. Geneva: International Organization for Standardization.
