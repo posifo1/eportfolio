@@ -23,12 +23,13 @@ An Introduction to Security and Risk Management
 ## Learning Outcomes
 In this unit, I developed a clear understanding of how organisations identify, assess, and control risks to protect their assets and ensure resilience.
 
-I examined various definitions of risk and recognised that it is a context-dependent concept. According to ISO 31000 (2018), risk is defined as the “effect of uncertainty on objectives.” In contrast, Blakley et al. (2001) define risk as "the possibility of an event which would reduce the value of the business were it to occur,  while NIST SP 800-30 (NIST, 2012) describes risk as a measure of the extent to which an entity is threatened by a potential circumstance or event.
+I examined various definitions of risk and recognised that it is a context-dependent concept. According to ISO 31000 (2018), risk is defined as the “effect of uncertainty on objectives.” In contrast, Blakley et al. (2001) define risk as "the possibility of an event which would reduce the value of the business were it to occur,  while Stoneburner et al (Stoneburner, Goguen and Feringa, 2002) define risk as "the net negative impact of the exercise of a vulnerability, considering both the probability and the impact of occurrence"
 
 Furthermore, I learned how to assess, qualify, and mitigate risks using systematic methods. Risk assessment involves identifying assets, vulnerabilities, and threats, then evaluating the likelihood and potential impact of each. Depending on the organisation's tolerance and objectives, risks can be mitigated through avoidance, reduction, transfer, or acceptance (ISO, 2018)
 
 **References**
 NIST (2012). Guide for Conducting Risk Assessments. [online] NIST. NIST. Available at: https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf.
+Stoneburner, G., Goguen, A. and Feringa, A. (2002). Special Publication 800-30 Risk Management Guide for Information Technology Systems Recommendations of the National Institute of Standards and Technology. [online] Available at: https://www.archives.gov/files/era/recompete/sp800-30.pdf.
 
 ## Activities/Assignments
 - Reflection: Discuss the balance between security measures and business agility.  
