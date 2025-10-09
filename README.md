@@ -25,7 +25,13 @@ In this unit, I developed a clear understanding of how organisations identify, a
 
 I examined various definitions of risk and recognised that it is a context-dependent concept. According to ISO 31000 (2018), risk is defined as the “effect of uncertainty on objectives.” In contrast, Blakley et al. (2001) define risk as "the possibility of an event which would reduce the value of the business were it to occur,  while Stoneburner et al (Stoneburner, Goguen and Feringa, 2002) define risk as "the net negative impact of the exercise of a vulnerability, considering both the probability and the impact of occurrence"
 
-Furthermore, I learned how to assess, qualify, and mitigate risks using systematic methods. Risk assessment involves identifying assets, vulnerabilities, and threats, then evaluating the likelihood and potential impact of each. Depending on the organisation's tolerance and objectives, risks can be mitigated through avoidance, reduction, transfer, or acceptance (ISO, 2018)
+I learned how to assess, qualify, and mitigate risks using systematic methods. Risk assessment involves identifying assets, vulnerabilities, and threats, then evaluating the likelihood and potential impact of each. Depending on the organisation's tolerance and objectives, risks can be mitigated through avoidance, reduction, transfer, or acceptance (ISO, 2018)
+
+Furthermore, I can now quantify and qualify risks using both numerical and descriptive approaches. Quantitative models, such as the Annualised Loss Expectancy (ALE) method, estimate potential financial losses, while qualitative methods apply expert judgment to categorise risks as high, medium, or low. Hybrid models effectively combine both approaches to support informed decision-making.
+
+Finally, I can identify and apply appropriate security and risk management standards. Frameworks such as ISO 31000 and ISO/IEC 27001 provide overarching guidance for enterprise and information security risk, while the NIST Risk Management Framework (RMF) offers procedural detail for IT environments. The ability to select and apply these standards in line with industry and regulatory contexts is essential for effective governance.
+
+Overall, this learning has strengthened my capability to analyse complex risk environments, apply structured methodologies, and align security strategies with organisational objectives.
 
 **References**
 NIST (2012). Guide for Conducting Risk Assessments. [online] NIST. NIST. Available at: https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-30r1.pdf.
